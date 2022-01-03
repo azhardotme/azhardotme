@@ -4,8 +4,6 @@
 
 I am a Programmer having years of experience in full-stack web development.
 
-Skills: LARAVEL / PHP / JS / HTML / CSS
-
 - 🔭 I’m currently working on Laravel 
 - 🌱 I’m currently learning VUE JS 
 
