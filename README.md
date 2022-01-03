@@ -22,7 +22,6 @@ Skills: LARAVEL / PHP / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=azhardotme)  
 
 ![Profile views](https://gpvc.arturio.dev/azhardotme)  
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
