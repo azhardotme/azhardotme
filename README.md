@@ -2,8 +2,7 @@
 ### Hi there 👋, Azharul Islam
 #### Web Developer
 
-
-Hi! I’m Azharul Islam - I am a Programmer having years of experience in full-stack web development.
+I am a Programmer having years of experience in full-stack web development.
 
 Skills: LARAVEL / PHP / JS / HTML / CSS
 
